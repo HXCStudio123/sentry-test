@@ -1,5 +1,7 @@
 # sentry-test
 
+一个用来测试接入监控异常的项目
+
 ## Project setup
 ```
 yarn install
