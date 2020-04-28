@@ -1,0 +1,7 @@
+[auth]
+token=01e1ad76206e4be1ba0f310f66e90f4c4088f7dd888b4dbaa52b11322ba172be
+
+[defaults]
+url=https://sentry.io/
+org="sentry-test@1.0.0"
+project=sentrytest

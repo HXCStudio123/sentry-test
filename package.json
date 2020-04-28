@@ -1,6 +1,6 @@
 {
   "name": "sentry-test",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@sentry/browser": "^5.15.5",
+    "@sentry/integrations": "^5.15.5",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
