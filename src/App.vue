@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- 测试 -->
-    <h1>测试页面是否展示</h1>
+    <h1>测试页面是否展示--持续测试</h1>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
