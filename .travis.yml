@@ -1,0 +1,12 @@
+# 操作系统
+os: linux
+# 使用的语言
+language: node_js
+# 语言版本
+node_js:
+  - "12"
+# 安装依赖的 命令 可以直接写命令 也可以 直接用shell脚本执行
+install:
+  - npm install
+script: 
+  - npm run build
